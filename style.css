@@ -1,0 +1,11 @@
+h1{
+    background-color: lightpink;
+    border: 2px dashed black;
+}
+h2{
+    background-color: lightblue;
+    border: 2px dotted black;
+}
+ul{
+    background-color: lightgrey;
+}
